@@ -1,2 +1,2 @@
 # marabu-wardrobe-sql
-Marabu Wardrobe SQL
+For all people who can't organize their wardrobes.
